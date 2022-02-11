@@ -1,0 +1,31 @@
+body{
+    width: 1600px;
+    height: 100%;
+}
+header{
+    width: 100%;
+    height: 300px;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.aeroportS{
+    display: flex;
+    height:600px;
+    width: 100%;  
+    justify-content: space-around;
+    align-items: center;
+}
+
+.original img{
+    width: 700px;
+    height: 500px;
+}
+.modifie img{
+    width: 700px;
+    height: 515px;
+    
+}
