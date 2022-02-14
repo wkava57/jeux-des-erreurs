@@ -1,5 +1,5 @@
-let poles = document.getElementById('poles');
+let sac = document.getElementById('sac');
 
-poles.addEventListener("click", function(){
-    poles.style.opacity="1";
+sac.addEventListener("click", function(){
+    sac.style.opacity="1";
 })
